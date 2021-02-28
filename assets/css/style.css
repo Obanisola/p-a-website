@@ -5898,6 +5898,10 @@ button.bg-black:focus {
 .py-10 {
   padding-bottom: 6.25rem !important; }
 
+.pb-11,
+.py-11 {
+  padding-bottom: 7.25rem !important; }
+
 .pl-10,
 .px-10 {
   padding-left: 6.25rem !important; }
